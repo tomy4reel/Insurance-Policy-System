@@ -43,18 +43,6 @@ The project consists of the following main components:
 ## Example Demonstration
 In the `main.py` file, there are examples demonstrating how to create policyholders, products, and payments. The examples show how to register policyholders for products, process payments, and manage accounts.
 
-## Notes
-- The system currently uses in-memory data storage. For production use, consider integrating a database for persistent data storage.
-- Proper error handling should be implemented for a more robust system, especially for real-world applications.
-
-## Contributing
-If you wish to contribute to the project, please follow these steps:
-1. Fork the repository.
-2. Create a new feature branch.
-3. Make your changes and commit them.
-4. Push your changes to the feature branch.
-5. Submit a pull request for review.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
